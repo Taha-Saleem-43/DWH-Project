@@ -1,15 +1,3 @@
-<?xml version="1.0"?>
-<BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <ProjectInfo>
-    <Name>Populate_DW_Northwind</Name>
-    <LastWriteTime>2025-12-22T21:51:18.1944322Z</LastWriteTime>
-    <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-  </ProjectInfo>
-  <LastBuildInfos>
-    <ProjectBuildItemInfo>
-      <Name>Package.dtsx</Name>
-      <LastWriteTime>2025-12-24T09:02:26.6203069Z</LastWriteTime>
-      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
-    </ProjectBuildItemInfo>
-  </LastBuildInfos>
-</BuildLog>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea1cd8e3555a047e1ab5e1c8a4d3490fda95c0df34338a9d7cf5f7a2af16fae
+size 657

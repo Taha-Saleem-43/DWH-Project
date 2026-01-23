@@ -1,25 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
-<DataTransformationsUserConfiguration xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <Configurations>
-    <Configuration>
-      <Name>Development</Name>
-      <Options>
-        <AssessmentRuleSuppressionSetting />
-        <UseWinAuth>false</UseWinAuth>
-        <WinAuthUserName />
-        <WinAuthDomain />
-        <UserIDs />
-        <UserPasswords />
-        <OfflineMode>false</OfflineMode>
-        <ProgressReporting>true</ProgressReporting>
-        <ParameterConfigurationSensitiveValues>
-          <ConfigurationSetting>
-            <Id>LastModifiedTime</Id>
-            <Name>LastModifiedTime</Name>
-            <Value xsi:type="xsd:dateTime">2025-12-22T09:25:34.6511938Z</Value>
-          </ConfigurationSetting>
-        </ParameterConfigurationSensitiveValues>
-      </Options>
-    </Configuration>
-  </Configurations>
-</DataTransformationsUserConfiguration>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec8f59911113a7086e95b91a4741f222ece07fb9b5b90e631b3267615de57ca2
+size 985
