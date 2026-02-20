@@ -1,4 +1,4 @@
-# DWH & BI Term Project â€“ Northwind Global Distributors
+# DWH & BI Term Project “ Northwind Global Distributors
 
 ## Project Summary
 This project implements the **complete Business Intelligence lifecycle**, integrating multiple OLTP sources and external files into a centralized **Dimensional Data Warehouse**, followed by **OLAP analysis** and an **interactive Power BI dashboard**.
